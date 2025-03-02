@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devtools.Test", "MSSQL integration test project\Devtools.Test.csproj", "{19991802-1340-4FC7-B988-8F55561F1EB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devtools.Test", "MYSQL intergration test project\Devtools.Test.csproj", "{07207170-E544-4903-9890-C68E52172D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19991802-1340-4FC7-B988-8F55561F1EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19991802-1340-4FC7-B988-8F55561F1EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19991802-1340-4FC7-B988-8F55561F1EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19991802-1340-4FC7-B988-8F55561F1EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07207170-E544-4903-9890-C68E52172D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07207170-E544-4903-9890-C68E52172D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07207170-E544-4903-9890-C68E52172D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07207170-E544-4903-9890-C68E52172D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458DF3B8-F838-4FFC-BDFE-FB09F44185E7}
+	EndGlobalSection
+EndGlobal
